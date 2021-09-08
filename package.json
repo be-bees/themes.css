@@ -1,0 +1,21 @@
+{
+  "name": "@agathiyan/themes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "themes.css",
+  "scripts": {
+    "publish":"npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be-bees/themes.css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/be-bees/themes.css/issues"
+  },
+  "homepage": "https://github.com/be-bees/themes.css#readme"
+}
